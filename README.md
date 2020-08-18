@@ -1,2 +1,2 @@
 # piperidine.github.io
-## Welcome to  my site
+## Welcome to my site
